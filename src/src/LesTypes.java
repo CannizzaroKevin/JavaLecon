@@ -1,4 +1,4 @@
-public class Main {
+public class LesTypes {
     public static void main(String[] args) {
         //Les entiers
         byte octet = 127;
